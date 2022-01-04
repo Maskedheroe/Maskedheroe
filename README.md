@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am an adherent of javascript 
+## I am an adherent of JavaScript 
 <!--
 **Maskedheroe/Maskedheroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
